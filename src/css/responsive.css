@@ -1,0 +1,14 @@
+@media(max-width: 850px){
+    .container {
+        padding: 0 20px;
+        margin: 0 10px;
+    }
+    
+    .container .imagem {
+        display: none;
+    }
+
+    .faq {
+        margin: 0 auto;
+    }
+}

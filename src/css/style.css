@@ -12,7 +12,7 @@
     background-color: white;
     border-radius: 20px;
     height: 347px;
-    width: 655px;
+    max-width: 655px;
     position: relative;
 }
 
